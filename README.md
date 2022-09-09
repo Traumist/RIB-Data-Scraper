@@ -19,3 +19,5 @@ Edit event_scraping.py lines 74 and 80 for the eventID you wish to scrape and th
 
 Run the script and it will create a new database if it doesn't exist and append the data scraped to said database.
 
+If you want the data a bit cleaner use the cleaning notebook Cleaning.ipynb to clean the data and create a new table in the database with cleaned and more useable data.
+
